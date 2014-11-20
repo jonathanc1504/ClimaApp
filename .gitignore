@@ -41,3 +41,16 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Eclipse artifacts
+/.project
+
+/.classpath
+
+/.settings
+
+
+/bin
+/target
+
+/.git
